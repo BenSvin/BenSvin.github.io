@@ -1,4 +1,4 @@
-[Home](index.md) | [Projects](projects.md) | [Scripts](scripts.md)
+[Home](index.md)|[Projects](projects.md)|[Scripts](scripts.md)
 
 
 # Welcome!
