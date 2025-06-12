@@ -1,3 +1,6 @@
+[Home](index.md) | [Projects](projects.md) | [Scripts](scripts.md)
+
+
 # Welcome!
 
 # UNDER CONSTRUCTION
