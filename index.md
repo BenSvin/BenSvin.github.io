@@ -1,4 +1,8 @@
-[Home](index.md)&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;[Scripts](scripts.md)
+<p align="center">
+  [Home](index.md)&nbsp;&nbsp;&nbsp;
+  [Projects](projects.md)&nbsp;&nbsp;&nbsp;
+  [Scripts](scripts.md)
+</p>
 
 
 # Welcome!
