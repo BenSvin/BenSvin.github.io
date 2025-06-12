@@ -1,8 +1,9 @@
-<div style="text-align: center; margin-bottom: 10px; margin-top: 10px;">
-  <a href="index.md">Home</a> |
-  <a href="projects.md">Projects</a> |
-  <a href="scripts.md">Scripts</a>
-</div>
+<nav style="text-align: center;">
+  <a href="index.md" style="margin: 0 10px;">Home</a>
+  <a href="projects.md" style="margin: 0 10px;">Projects</a>
+  <a href="scripts.md" style="margin: 0 10px;">Scripts</a>
+</nav>
+
 
 
 # Welcome!
