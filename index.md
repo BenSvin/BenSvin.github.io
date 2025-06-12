@@ -1,4 +1,8 @@
-[Home](index.md)|[Projects](projects.md)|[Scripts](scripts.md)
+<div style="text-align: center; margin-bottom: 10px; margin-top: 10px;">
+  <a href="index.md">Home</a> |
+  <a href="projects.md">Projects</a> |
+  <a href="scripts.md">Scripts</a>
+</div>
 
 
 # Welcome!
