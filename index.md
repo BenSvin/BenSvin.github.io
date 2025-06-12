@@ -1,8 +1,8 @@
-<p align="center">
-  [Home](index.md)&nbsp;&nbsp;&nbsp;
-  [Projects](projects.md)&nbsp;&nbsp;&nbsp;
-  [Scripts](scripts.md)
-</p>
+<div align="center">
+  <a href="index.md">Home</a>&nbsp;&nbsp;&nbsp;
+  <a href="projects.md">Projects</a>&nbsp;&nbsp;&nbsp;
+  <a href="scripts.md">Scripts</a>
+</div>
 
 
 # Welcome!
