@@ -1,9 +1,4 @@
-<nav style="text-align: center;">
-  <a href="index.md" style="margin: 0 10px;">Home</a>
-  <a href="projects.md" style="margin: 0 10px;">Projects</a>
-  <a href="scripts.md" style="margin: 0 10px;">Scripts</a>
-</nav>
-
+[Home](index.md)&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;[Scripts](scripts.md)
 
 
 # Welcome!
