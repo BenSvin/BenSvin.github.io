@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="index.md">Home</a>&nbsp;&nbsp;&nbsp;
-  <a href="projects.md">Projects</a>&nbsp;&nbsp;&nbsp;
-  <a href="scripts.md">Scripts</a>
+  <a href="index">Home</a>&nbsp;&nbsp;&nbsp;
+  <a href="projects">Projects</a>&nbsp;&nbsp;&nbsp;
+  <a href="scripts">Scripts</a>
 </div>
 
 
