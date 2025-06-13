@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="index">Home</a>&nbsp;&nbsp;&nbsp;
+  <a href="projects">Projects</a>&nbsp;&nbsp;&nbsp;
+  <a href="scripts">Scripts</a>
+</div>
+
+
 # OPNsense Firewall
 
 The overall plan for the Proxmox network is to simulate a business network, so we'll definitely need a solid firewall to control our traffic. 
