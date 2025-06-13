@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="index">Home</a>&nbsp;&nbsp;&nbsp;
+  <a href="projects">Projects</a>&nbsp;&nbsp;&nbsp;
+  <a href="scripts">Scripts</a>
+</div>
+
+
 # Building a Home Lab Using Proxmox
 
 ## Why Proxmox?
