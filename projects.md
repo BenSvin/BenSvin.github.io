@@ -8,3 +8,11 @@
 # Projects
 
 This page will document my home lab and scripts.
+
+<div>
+  <a href="proxmox">proxmox</a>&nbsp;&nbsp;&nbsp;
+</div>
+
+<div>
+  <a href="pfsense">pfsense</a>&nbsp;&nbsp;&nbsp;
+</div>
