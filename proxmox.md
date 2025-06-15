@@ -16,6 +16,6 @@ a web interface.
 Here you can jump around to my documentation for each part in the Proxmox server I'm working on:
 
 <div>
-  <a href="projects">pfsense</a>&nbsp;&nbsp;&nbsp;
+  <a href="pfsense">pfsense</a>&nbsp;&nbsp;&nbsp;
 </div>
 
